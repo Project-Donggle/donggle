@@ -1,0 +1,6 @@
+[submodule "donggle-front"]
+	path = donggle-front
+	url = https://github.com/Project-Donggle/donggle-front.git
+[submodule "donggle-back"]
+	path = donggle-back
+	url = https://github.com/Project-Donggle/donggle-back.git
